@@ -1,6 +1,5 @@
 # Howard-Portfolio
 Here is my public portfolio for the Telling Stories with Data Class as CMU! 
-https://clhoward.github.io/Howard-Portfolio/
 
 # About Me
 My name is Cassie Howard (she/her) and I am starting my final year in the remote MSIT program at CMU.  I am a manager in the IT organization at General Motors (GM) and have worked in various IT roles at GM for 19 years.  GM is a large corporation with a complex IT environment, which has allowed me to work on some very diverse projects.  I started my career right out of college working as an entry level operator/help desk agent at a single manufacturing plant in Detroit, MI.   I have grown through the organization by challenging myself to take on new work and assignments even when they are outside of my comfort zone.  I have worked on cutting edge projects like the Chevy Volt launch and not-so-cutting-edge projects like organizational restructuring.  I currently manage a team who is responsible for deploying new IT solutions, performing IT system upgrades, and remediating security vulnerabilities at over 75 manufacturing sites globally.
