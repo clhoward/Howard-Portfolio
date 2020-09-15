@@ -4,10 +4,9 @@ These charts were all created using data that was obtained from the OECD Website
 Source:OECD (2020), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 14 September 2020)
 
 ## Debt-to-GDP Ratio for 2018
-
-Chart was obtained from OECD website. 
-<iframe src="https://data.oecd.org/chart/65Ev" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65Ev" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
-
+### Japan has the highest debt levels in the world
+<iframe src="https://data.oecd.org/chart/65EJ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65EJ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+Chart was obtained from OECD website.
 
 ## Debt-to-GDP Ratio of Each Country
 
