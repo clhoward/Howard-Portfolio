@@ -1,5 +1,5 @@
 # General Government Debt
-Japan has the highest debt levels in the world (Plecher, H.) and it is reflected in their high debt-to-gdp ratio.  The debt-to-GDP ratio "measures the gross debt of the general government as a percentage of GDP.  It is a key indicator for the sustainability of government finance (OECD 2020)."  Increases in Japan's debt over the last 12 years is mostly attributed to the global recession in 2008 when the investment bank Lehman Brothers collapsed in the United States.  Many countries felt the direct and indirect impact of this collapse.  While Japan was not directly invested with Lehman Brothers, they experienced a signficant impact to their GPP indirectly. The impact to their dept-to-GDP ratio was even larger than the United States.  
+Japan has the highest debt levels in the world[^3](Plecher, H.) and it is reflected in their high debt-to-gdp ratio.  The debt-to-GDP ratio "measures the gross debt of the general government as a percentage of GDP.  It is a key indicator for the sustainability of government finance (OECD 2020)."  Increases in Japan's debt over the last 12 years is mostly attributed to the global recession in 2008 when the investment bank Lehman Brothers collapsed in the United States.  Many countries felt the direct and indirect impact of this collapse.  While Japan was not directly invested with Lehman Brothers, they experienced a signficant impact to their GPP indirectly. The impact to their dept-to-GDP ratio was even larger than the United States.  
 
 One reason for Japans significant impact was that they had a heavy reliance on exports and demand for exports from other countries that were impacted declined significantly.  The reduced demand impacted Japan's industry and workers as they produced less.  Japan has a "lifetime employment system" (SAITO, Jun), which made companies reluctant to reduce the workforce.  Many companies were continuing to employee and pay people during a time they were not producing or selling product.  The government stepped in with subsidies to keep unemployment low, which increased the countries debt significantly (SAITO, Jun).  Japan is still feeling the effect of this debt in their debt-to-gdp ratio in 2018.  
 
@@ -20,6 +20,8 @@ One reason for Japans significant impact was that they had a heavy reliance on e
 Select any country from the drop down to see 2008 impact 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3730058" data-url="https://flo.uri.sh/visualisation/3730058/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
 
 # References
 All charts were all created using data that was obtained from the OECD Website and contains the General government debt-to-GDP ratio for countries indicated.
