@@ -9,13 +9,14 @@ One reason for Japans significant impact was that they had a heavy reliance on e
 <iframe src="https://data.oecd.org/chart/65EJ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65EJ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 
-## Debt-to-GDP Ratio of Each Country
+## Debt-to-GDP Ratio by Country
+### Global Impact of 2008 Global Recession
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3729212" data-url="https://flo.uri.sh/visualisation/3729212/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 ## Debt-to-GDP Ratio 
-### Japan Feels Impact of 2008 Global Recession 
+### Japan vs US Impact To 2008 Global Recession 
 Select any country from the drop down to see 2008 impact 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3730058" data-url="https://flo.uri.sh/visualisation/3730058/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
