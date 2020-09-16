@@ -16,9 +16,7 @@ Japan has the highest debt levels in the world (Plecher, H.) and it is reflected
 
 ## Debt-to-GDP Ratio 
 ### Japan Feels Impact of 2008 Global Recession 
-
-Japan has seen a significant increase in their dept-to-GDP signaling an economic downturn.
-Select any country from the drop down to see their ratio trend over time. 
+Select any country from the drop down to see 2008 impact 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3730058" data-url="https://flo.uri.sh/visualisation/3730058/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
