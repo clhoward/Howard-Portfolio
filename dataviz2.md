@@ -25,7 +25,7 @@ Select any country from the drop down to see their ratio over time.
 # Sources
 1. Source:OECD (2020), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 14 September 2020)
 2. SAITO, Jun. [Why Was Japan Struck So Hard by the 2008 Crisis?](/ https://www.jcer.or.jp/english/why-was-japan-struck-so-hard-by-the-2008-crisis). 10/1/2018. (Accessed on 9/15/2020).
-3. Plecher, H. [Japan's national debt in relation to gross domestic product (GDP) 2024] (/https://www.statista.com/statistics/267226/japans-national-debt-in-relation-to-gross-domestic-product-gdp/#:~:text=In%202017%2C%20the%20national%20debt,of%20the%20gross%20domestic%20product.&text=Japan's%20national%20debt%20ranks%20first,been%20in%20the%20spotlight%20recently.). May 6, 2020.  (Accessed on 15 September 2020)
+3. Plecher, H. [Japan's national debt in relation to gross domestic product (GDP) 2024](/https://www.statista.com/statistics/267226/japans-national-debt-in-relation-to-gross-domestic-product-gdp/#:~:text=In%202017%2C%20the%20national%20debt,of%20the%20gross%20domestic%20product.&text=Japan's%20national%20debt%20ranks%20first,been%20in%20the%20spotlight%20recently.). May 6, 2020.  (Accessed on 15 September 2020)
 
 
 
