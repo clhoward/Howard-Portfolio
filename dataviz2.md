@@ -14,7 +14,7 @@ Source:OECD (2020), General government debt (indicator). doi: 10.1787/a0528cc2-e
 
 
 ## Debt-to-GDP Ratio 
-### Japan and Greece may be heading toward an economic downturn
+### Japan Feels Impact of 2008 Global Recession 
 
 Japan and Greece has seen a significant increase in their dept-to-GDP and may be heading toward an economic downturn.
 
