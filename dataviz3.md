@@ -81,4 +81,6 @@ P
 I showed may sketches to 2 people for feedback
 ![](redesignedMSWPieChart.JPG?raw=true)
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/3790593" data-url="https://flo.uri.sh/visualisation/3790593/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
