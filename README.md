@@ -13,3 +13,5 @@ Both IT and the automotive industry have changed very drastically in the last 5-
 Here's where all of my cool data visualizations will go!
 
 [Visualizing Government Debt](/dataviz2.md)
+
+[Critque by Design](/dataviz3.md)
