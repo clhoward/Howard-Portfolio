@@ -14,5 +14,6 @@
 
 ## Redesigned Visualizations
 
-![](images/redesigned%20MSW%20Pie%20Chart.jpg?raw=true)
+![](redesignedMSWPieChart.JPG?raw=true)
+
 
