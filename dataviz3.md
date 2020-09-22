@@ -8,8 +8,7 @@ I chose to critique the data visualizations within the Generation section of the
 ![](GenerationPieChart.JPG?raw=true)
 
 
-![](GenerationStackedArea.JPG?raw=true)
-Source: EPA. "National Overview: Facts and Figures on Materials, Wastes and Recycling," Accessed on September 20, 2020.  https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials#NationalPicture
+![](GenerationStackedArea.JPG?raw=true) [^1]
 
 
 ### My Critique Process
@@ -84,7 +83,7 @@ I then documented what I expected to see in the data visualizations and created 
 4. After explanation she saw the differences in areas but didn’t see a negative trend. 
 
 ## Redesigned Visualizations
-After reviewing the feedback, it became clear that while the stacked area chart was good at showing the proportion to total, it was not good at highlighting the trend specific material, even with a different scale.  If the intent of the article to it help municipalities make decisions on their future recycling programs, it will be important for them to see what material being generated and how that is changing.  The line chart represents this better than the stacked area chart, so I decided to use a line chart.   I also highlighted the top 4 categories in color to give importance to the materials generating the most waste.  If the reader is interested in the other materials not highlighted, they are still able to scroll over the grey line to see the trend for that material.  I kept the colors coordinating with the pie chart to ensure proportion was understood. 
+After reviewing the feedback, it became clear that while the stacked area chart was good at showing the proportion to total, it was not good at highlighting the trend of a specific material, even with a different scale.  If the intent of the article to it help municipalities make decisions about future recycling programs, it will be important to see what the generated materials are and how they are changing.  The line chart represents this better than the stacked area chart, so I decided to use a line chart.   I also ordered all the materials in descending order and highlighted the top 4 categories in color to give importance and clearly show to the materials generating the most waste.  These are also the materials that the author specifically calls out with more detail in the article.  If the reader is interested in the other materials not highlighted, they are still able to scroll over the grey line to see the trend for that material.  I kept the colors coordinating with the pie chart to ensure proportion was understood. 
 
 Here are my redesigns:
 
@@ -93,3 +92,4 @@ Here are my redesigns:
 <div class="flourish-embed flourish-chart" data-src="visualisation/3790593" data-url="https://flo.uri.sh/visualisation/3790593/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
+[^1]: EPA. "National Overview: Facts and Figures on Materials, Wastes and Recycling," Accessed on September 20, 2020.  https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials#NationalPicture
