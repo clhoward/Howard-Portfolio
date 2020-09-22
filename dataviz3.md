@@ -58,27 +58,36 @@ I then documented what I expected to see in the data visualizations and created 
 
 
 ### Feedback
-P
+
 *Feedback Person 1: Pie Chart*  
-1. I Like the pie chart. The % is very easy to see.
-2. The colors give a good visual of the pie pieces and division. I don't like the grey and the grey isn't very effective.
+1. Like the pie chart. The % is very easy to see.
+2. The colors give a good visual of the pie pieces and division between the pieces. Don't like the grey and the grey isn't very effective.
 3. The little pieces are not as important as the colored, big pieces.
 
 *Feedback Person 1: Stacked Area chart*
 1. The chart is clear and the grid lines make it easy to read. 
 2. I see that the trend is going up.  All the lines go up.  
-3. The person asked thinks that all of the lines are trend lines and does not understand what all the color under the line represents. 
-4. After explaining portions of the graph, person indicated they are not familiar with this type of chart and would have thought it represented trend lines. Still does not see any downward trend in the data. 
+3. The person thinks that all of the lines are trend lines and does not understand what all the color under the line represents. 
+4. After explaining portions of the graph, person indicated they are not familiar with this type of chart and would have thought it represented trend lines. Still does not see any downward trends in the data. 
 5. Person saw the trend line graph on the page and said that chart shows the downward and upward trends more clearly and it was more familiar. 
 
 *Feedback Person 2: Pie Chart*  
-1.
+1. Chart is legible and tell you what you need to know.
+2. Metal looks bigger than food.
+3. Colors pinpoint the areas that are higher in the value (top 4).
+4. Greys are not enough to worry about.
 
 *Feedback Person 2: Stacked Area chart*
-1.  
+1. Trend of generated wasted is increasing (higher)
+2. Colors correlate with pie chart, which is good
+3. Not familiar with the type of stacked chart but the lines are all trending up so that is good. 
+4. After explanation she saw the differences in areas but didn’t see a negative trend. 
 
 ## Redesigned Visualizations
-I showed may sketches to 2 people for feedback
+After reviewing the feedback, it became clear that while the stacked area chart was good at showing the proportion to total, it was not good at highlighting the trend specific material, even with a different scale.  If the intent of the article to it help municipalities make decisions on their future recycling programs, it will be important for them to see what material being generated and how that is changing.  The line chart represents this better than the stacked area chart, so I decided to use a line chart.   I also highlighted the top 4 categories in color to give importance to the materials generating the most waste.  If the reader is interested in the other materials not highlighted, they are still able to scroll over the grey line to see the trend for that material.  I kept the colors coordinating with the pie chart to ensure proportion was understood. 
+
+Here are my redesigns:
+
 ![](redesignedMSWPieChart.JPG?raw=true)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3790593" data-url="https://flo.uri.sh/visualisation/3790593/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
