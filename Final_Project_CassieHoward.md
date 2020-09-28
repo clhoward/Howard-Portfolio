@@ -35,12 +35,15 @@ Below is the outline structure I plan on using for my project. I start the prese
  
 ## Intial Sketches
 ### Story Arc
-The story arc helped me determine at the flow of how I want the user to feel as I walk through my presentation. 
+The story arc helped me determine at the flow of how I want the user to feel as I walk through my presentation. The will start by working through the current situation of pollution and climate change. Then I walk through the first electric vehicle, which is a great solution to climate change but has some problems, which causes the hump and then talk about the innovation of the last several years that remediate most of the problems. 
 ![](StoryArc.JPG?raw=true)
 
 ### Storyboard
-The storyboard helped me determine the flow of what high-level statics I want to try and find to tell a part of the story.
+The storyboard helped me determine the flow of what high-level statics I want to try and find to tell a part of the story.  I used the story arc as my framework and determined what statistic I would need and what section of the presentation it would go in.  This helped me determine the type of data I would need to go find.  
 ![](Storyboard.JPG?raw=true)
+
+### Visuals
+Here is a draft of 
 
 ## The Data
 
