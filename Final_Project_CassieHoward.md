@@ -12,13 +12,12 @@ Today's redesigned electric vehicles have longer battery life, more charging sta
 
 ## Outline
 
-	1. Introduction:
+	1. Introduction
 		a. High CO2 levels are causing pollution, smog, and climate change
 		b. Vehicle carbon emissions is a leading contributor of CO2 levels
 	2. Main 
 		a. Electric Vehicles produce less pollution/carbon emissions
-		b. Electric vehicle was introduced in xxx, with several issues.
-		c. Show timeline for major milestones for electric vehicles
+		b. Show timeline for major milestones for electric vehicles
 		d. Issues that plagued electric vehicles include:
 			i. Short battery life - show how this has drastically improved
 			ii. Limited infrastructure - show # of charging station increases and projections
@@ -26,6 +25,8 @@ Today's redesigned electric vehicles have longer battery life, more charging sta
 				1) Electric vs gas costs
 			iv. Options - show current and projected vehicle type options
 	3. Conclusion
+		a. Make your next vehicle an electric vehicle
+		b. If you are not in the market for a new vehicle, you can support electric vehicles by...
  
 Make your next vehicle an electric vehicle
 ## Intial Sketches
