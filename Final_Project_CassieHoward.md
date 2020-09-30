@@ -17,7 +17,7 @@ My project is indented to persuade the reader into purchasing or supporting elec
 
 
 ## Outline
-Below is the outline structure I plan on using for my project. I start the presentation with an introduction as to what the problem is, which in this case is CO2 pollution.  The main section is going to be used to provide one possible solution to this problem, which is the switch from combustable engine cars to electric cars.  The final section will include to action to buy an electric vehicle. 
+Below is the outline structure I plan on using for my project. I start the presentation with an introduction as to what the problem is, which in this case is CO2 pollution.  The main section is going to be used to provide one possible solution to this problem, which is the switch from combustible engine cars to electric cars.  The final section will include to action to buy an electric vehicle. 
 
 	1. Introduction
 		a. High CO2 levels are causing pollution, smog, and climate change
@@ -25,7 +25,7 @@ Below is the outline structure I plan on using for my project. I start the prese
 	2. Main 
 		a. Electric Vehicles produce less pollution/carbon emissions
 		b. Show timeline for major milestones for electric vehicles
-		d. Issues that plagued electric vehicles include and how they have improved signficantly over time:
+		d. Issues that plagued electric vehicles include and how they have improved significantly over time:
 			i. Short battery life - show how this has drastically improved
 			ii. Limited infrastructure - show # of charging station increases and projections
 			iii. Cost - show how cost has dropped
@@ -54,7 +54,7 @@ The storyboard helped me determine the flow and what high-level statics I want t
 
 I used the draft sketches to help determine what data I would need and then used the data links provided and Google to see what data I can find. 
 
-1. Data related to CO2 emmissions and composition data is located on the [United States Environmental Protection Agency](/www.epa.gov) website.  I have found composition and source information in both downloadable format or in PDF tables that can be scraped.  I will either use Tableau or Flourish for these visuals.
+1. Data related to CO2 emissions and composition data is located on the [United States Environmental Protection Agency](/www.epa.gov) website.  I have found composition and source information in both downloadable format or in PDF tables that can be scraped.  I will either use Tableau or Flourish for these visuals.
 		![](Composition.JPG?raw=true)
 	
 2. [The National Renewable Energy Laboratory (NREL)](/www.nrel.gov) has data relating the National Plug-In Electric Vehicle Infrastructure.  This site has information for all of the charging stations available for public use and indicates if they are new fast charging stations. They had this data for 2020 in downloadable form that includes geolocation, which will allow me to a map using Tableau.  My intent is the create two geolocation charts, one from 10-15 years ago and one from today, to show the improvement of volume.  I am still looking for the historical data with geolocation.  If I can't find it, will just use one geolocation chart.  
@@ -71,18 +71,18 @@ I used the draft sketches to help determine what data I would need and then used
 
 ## Method and Medium
 
-I will be using the Shorthand tool for my presentation. I will be putting together my story using the data visuals I have sketched above and I will have some detailed explaination. My plan is to create 1 presentation and to have simplified bullets and headings in addition to the detailed information.  This will allow me to review the highlights for a more condensed review in class without creating a seperate presentation  As I progress through finalizing the story and become more familar with Shorthand, this may change.  
+I will be using the Shorthand tool for my presentation. I will be putting together my story using the data visuals I have sketched above, and I will have some detailed explanation. My plan is to create one presentation and to have simplified bullets and headings in addition to the detailed information. This will allow me to review the highlights for a more condensed review in class without creating a separate presentation. As I progress through finalizing the story and become more familiar with Shorthand, this may change.
 
 **Mood Board**
 
-I have started searching for the types of images I like that I might want to incorporate into my presentation.  I started a mood board to help me collage the photos to determine if I like them together.  I have also added 2 possible color palettes based off off a few of the photos using coolors.com.
+I have started searching for the types of images I like that I might want to incorporate into my presentation.  I started a mood board to help me collage the photos to determine if I like them together.  I have also added 2 possible color palettes based off a few of the photos using coolors.com.
 	![](Moodboard.JPG?raw=true)	 
  
  
  
 ## References
 
-My presentation will have all references sited to the detailed page of the data.  Since I have only downloaded some of the data and haven't started the actual visualizations, I will use the highlevel site to reference where I plan to get the data from.
+My presentation will have all references sited to the detailed page of the data.  Since I have only downloaded some of the data and haven't started the actual visualizations, I will use the high-level site to reference where I plan to get the data from.
 1. [United States Environmental Protection Agency](/www.epa.gov)
 2. [The National Renewable Energy Laboratory (NREL)](/www.nrel.gov)
 3. [The Alternative Fuels Data Center (AFDC)](/https://afdc.energy.gov/)
@@ -91,13 +91,13 @@ My presentation will have all references sited to the detailed page of the data.
 
 **Images** 
 
-All images on the mood board came from the public sources below.  If any specifc image is used in the final presentation, it will have a detailed source with author.  
+All images on the mood board came from the public sources below.  If any specific image is used in the final presentation, it will have a detailed source with author.  
 
 [Pexels](/https://www.pexels.com/)
 
 [Creative Commons](/https://creativecommons.org/)
 
-[Google image search using approprate reuse flag](/https://goggle.com)
+[Google image search using appropriate reuse flag](/https://goggle.com)
 
 
 
