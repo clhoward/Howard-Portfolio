@@ -36,19 +36,22 @@ Below is the outline structure I plan on using for my project. I start the prese
 		a. Call to action: Make your next vehicle an electric vehicle
 		b. If you are not in the market for a new vehicle, you can support electric vehicles by...
  
-## Intial Sketches
+## Story Sketches
 ### Story Arc
+
 The story arc helped me determine the flow of how I want the user to feel as I walk through my presentation. It will start by working through the current situation of pollution and climate change. Then I walk through the first electric vehicle, which was a great solution to climate change but had some problems (hump in the arc) and then I will talk about the innovation of the last several years that remediate most of those problems. 
 
 ![](StoryArc.JPG?raw=true)
 
 ### Storyboard
+
 The storyboard helped me determine the flow and what high-level statics I want to try and find to tell each part of the story.  I used the story arc as my framework and determined what statistic I would need and what section of the presentation it would go in.  This helped me determine the type of data I would need to go find.  
 
 ![](Storyboard.JPG?raw=true)
 
 
 ## The Data with Draft Visuals
+
 I used the draft sketches to help determine what data I would need and then used the data links provided and Google to see what data I can find. 
 
 1. Data related to CO2 emmissions and composition data is located on the [United States Environmental Protection Agency](/www.epa.gov) website.  I have found composition and source information in both downloadable format or in PDF tables that can be scraped.  I will either use Tableau or Flourish for these visuals.
@@ -68,20 +71,32 @@ I used the draft sketches to help determine what data I would need and then used
 
 ## Method and Medium
 
-### Mood board
+I will be using the Shorthand tool for my presentation. I will be putting together my story using the data visuals I have sketched above and I will have some detailed explaination. My plan is to create 1 presentation and to have simplified bullets and headings in addition to the detailed information.  This will allow me to review the highlights for a more condensed review in class without creating a seperate presentation  As I progress through finalizing the story and become more familar with Shorthand, this may change.  
 
+**Mood Board**
+
+I have started searching for the types of images I like that I might want to incorporate into my presentation.  I started a mood board to help me collage the photos to determine if I like them together.  I have also added 2 possible color palettes based off off a few of the photos using coolors.com.
+	![](Moodboard.JPG?raw=true)	 
+ 
+ 
+ 
 ## References
+
 My presentation will have all references sited to the detailed page of the data.  Since I have only downloaded some of the data and haven't started the actual visualizations, I will use the highlevel site to reference where I plan to get the data from.
 1. [United States Environmental Protection Agency](/www.epa.gov)
 2. [The National Renewable Energy Laboratory (NREL)](/www.nrel.gov)
 3. [The Alternative Fuels Data Center (AFDC)](/https://afdc.energy.gov/)
 4. Gardner, Greg. [GM thinks cheaper batteries will make electric cars more profitable](/https://www.usatoday.com/story/money/business/2017/11/17/gm-thinks-cheaper-batteries-make-electric-cars-more-profitable/869372001/). Accessed on September 29, 2020. 
-4. [Statista](/https://www.statista.com/)
+5. [Statista](/https://www.statista.com/)
 
 **Images** 
-All images on the mood board came from the public sources below.  If any specifc image is used in the final presentation, it will have a detailed source with author.    
+
+All images on the mood board came from the public sources below.  If any specifc image is used in the final presentation, it will have a detailed source with author.  
+
 [Pexels](/https://www.pexels.com/)
+
 [Creative Commons](/https://creativecommons.org/)
+
 [Google image search using approprate reuse flag](/https://goggle.com)
 
 
