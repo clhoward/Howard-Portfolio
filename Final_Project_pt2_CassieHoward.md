@@ -14,7 +14,7 @@ I have started searching for the types of images I like that I might want to inc
   
 ##Wireframe
   
-I created a more detailed wireframe of my story in PowerPoint.  I created real visualizations from the data I have gathered and put them into a flow with 1-2 sentences that I felt helped tell the story.  
+I created a more detailed wireframe of my story in PowerPoint.  I created real visualizations from the data I have gathered and put them into a flow with 1-2 sentences that I felt helped tell the story.  I used black arrows to identify the flow.  
 
 ![](WireframeSlide1.JPG?raw=true)
 
