@@ -43,3 +43,13 @@ After reviewing the feedback, I have decided to make the following changes to my
 5. I would like to find a more dynamic visual for one of the cost graphs but I am still looking into it.  I will change the colors of the bars to clearly signal electric (green) vs gas (orange or red).  
 6. I am going to add informatiom on estimated times to charge the battery.
 7. I am going to add the avg cost of a gas car and show the number of models of electric cars that are within the same range. 
+
+## Draft Redesigns
+I am still working out some of the redesignes but I was able to change some of the colors and add a few additional options. 
+
+![](WireframeSlide1v2.JPG?raw=true)
+
+![](WireframeSlide2v2.JPG?raw=true)
+
+ [Main Portfolio Page](/README.md)
+
