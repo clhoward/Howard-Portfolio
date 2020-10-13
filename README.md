@@ -16,6 +16,8 @@ Here's where all of my cool data visualizations will go!
 
 [Critique by Design](/dataviz3.md)
 
-[Final Project](/Final_Project_CassieHoward.md)
+[Final Project Part I](/Final_Project_CassieHoward.md)
 
 [Final Project Part II](/Final_Project_pt2_CassieHoward.md)
+
+[Final Project Part III](/Final_Project_pt3_CassieHoward.md)
