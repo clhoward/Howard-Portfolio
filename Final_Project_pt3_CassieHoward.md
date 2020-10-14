@@ -23,7 +23,7 @@ I thought about the feedback and the story that I wanted to tell, then decided w
 
 Now it is time to start putting the story with the visuals.  I gathered all the references and research I had done in Part I and started drafting the story without using the visuals.  I decided to use the tool Shorthand to tell the story, so I started matching the visuals to the written story in Shorthand.  As I did this, I found that I had two visuals that were redundant, so I removed one.  I also re-evaluated the visual for battery power range and decided it wasn’t needed.  I finalized the [color pallet](https://coolors.co/9e0142-d53e4f-f46d43-fdae61-fee08b-e6f598-abdda4-66c2a5-3288bd-5e4fa2) I wanted to use and found the images that helped tell the stroy.  The order of the story changed a little, but the main sections of problem, solution, and conclusion from the storyboard remained the same.    
 
-**Click Why you Should drive Electric to see the final story.**  
+**Click [Why you Should drive Electric](https://carnegiemellon.shorthandstories.com/why-you-should-drive-electric/index.html) to see the final story.**  
 
 ### The Audience
 
@@ -34,7 +34,7 @@ The audience of my story has changes through the journey.  I started out by thin
 I found the journey of going from an idea to final story with a focus on the visuals to be enlightening.  In the past, I have always focused on the data and making sure I get as much data as I could so there could be no questions that couldn't be answered by looking at the visual.  My primary objective was to pass data. I can now see how important the visualization of that data is in getting people to quickly see the objective.  Simplifying what is on the visual and using color, fonts, and titles to highlight the objective seems like an obvious concept and yet it wasn't something I was doing.  I have always said that I am not a "creative" person so I can get the data but someone else can make the data look good.  Now I realize it isn't about making the data "look good".  It is about a focused visual on what you want to say, and I feel I am more comfortable doing that.  
 
 
-**Click Why you Should drive Electric to see the final story.**  
+**Click  [Why you Should drive Electric](https://carnegiemellon.shorthandstories.com/why-you-should-drive-electric/index.html) to see the final story.**  
 
 
 
