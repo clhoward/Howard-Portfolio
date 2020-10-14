@@ -54,19 +54,19 @@ The storyboard helped me determine the flow and what high-level statics I want t
 
 I used the draft sketches to help determine what data I would need and then used the data links provided and Google to see what data I can find. 
 
-1. Data related to CO2 emissions and composition data is located on the [United States Environmental Protection Agency](/www.epa.gov) website.  I have found composition and source information in both downloadable format or in PDF tables that can be scraped.  I will either use Tableau or Flourish for these visuals.
+1. Data related to CO2 emissions and composition data is located on the [United States Environmental Protection Agency](www.epa.gov) website.  I have found composition and source information in both downloadable format or in PDF tables that can be scraped.  I will either use Tableau or Flourish for these visuals.
 		![](Composition.JPG?raw=true)
 	
-2. [The National Renewable Energy Laboratory (NREL)](/www.nrel.gov) has data relating the National Plug-In Electric Vehicle Infrastructure.  This site has information for all of the charging stations available for public use and indicates if they are new fast charging stations. They had this data for 2020 in downloadable form that includes geolocation, which will allow me to a map using Tableau.  My intent is the create two geolocation charts, one from 10-15 years ago and one from today, to show the improvement of volume.  I am still looking for the historical data with geolocation.  If I can't find it, will just use one geolocation chart.  
+2. [The National Renewable Energy Laboratory (NREL)](www.nrel.gov) has data relating the National Plug-In Electric Vehicle Infrastructure.  This site has information for all of the charging stations available for public use and indicates if they are new fast charging stations. They had this data for 2020 in downloadable form that includes geolocation, which will allow me to a map using Tableau.  My intent is the create two geolocation charts, one from 10-15 years ago and one from today, to show the improvement of volume.  I am still looking for the historical data with geolocation.  If I can't find it, will just use one geolocation chart.  
 		![](ChargingStationSketch.JPG?raw=true)
 		
-3. [The Alternative Fuels Data Center (AFDC)](/https://afdc.energy.gov/), which is part of the US Department of Energy has several elements of cost associated to various types of alternative fuels, including electricity and gasoline. Some of this data is in table format that can be scraped and others is in downloaded form.  
+3. [The Alternative Fuels Data Center (AFDC)](https://afdc.energy.gov/), which is part of the US Department of Energy has several elements of cost associated to various types of alternative fuels, including electricity and gasoline. Some of this data is in table format that can be scraped and others is in downloaded form.  
 		![](cost.JPG?raw=true)
 	
 4. I found some history of battery cost in an article from BusinessWeek.  It is enough data for a trendline chart to show the drastic decrease over the last several years.  I will continue to search for more data on the NREL and EPA sites. 
 		![](batterycost.JPG?raw=true)
 		
-5. I have found some data on [Statista](/https://www.statista.com/) on the battery range, however, it requires a subscription to download.  I believe I can find the information on the NREL or AFDC sites for free, but I am still searching.  If I can't, I will get a subscription.  
+5. I have found some data on [Statista](https://www.statista.com/) on the battery range, however, it requires a subscription to download.  I believe I can find the information on the NREL or AFDC sites for free, but I am still searching.  If I can't, I will get a subscription.  
 		![](batteryrange.JPG?raw=true)	
 
 ## Method and Medium
@@ -83,11 +83,11 @@ I have started searching for the types of images I like that I might want to inc
 ## References
 
 My presentation will have all references sited to the detailed page of the data.  Since I have only downloaded some of the data and haven't started the actual visualizations, I will use the high-level site to reference where I plan to get the data from.
-1. [United States Environmental Protection Agency](/www.epa.gov)
-2. [The National Renewable Energy Laboratory (NREL)](/www.nrel.gov)
-3. [The Alternative Fuels Data Center (AFDC)](/https://afdc.energy.gov/)
-4. Gardner, Greg. [GM thinks cheaper batteries will make electric cars more profitable](/https://www.usatoday.com/story/money/business/2017/11/17/gm-thinks-cheaper-batteries-make-electric-cars-more-profitable/869372001/). Accessed on September 29, 2020. 
-5. [Statista](/https://www.statista.com/)
+1. [United States Environmental Protection Agency](www.epa.gov)
+2. [The National Renewable Energy Laboratory (NREL)](www.nrel.gov)
+3. [The Alternative Fuels Data Center (AFDC)](https://afdc.energy.gov/)
+4. Gardner, Greg. [GM thinks cheaper batteries will make electric cars more profitable](https://www.usatoday.com/story/money/business/2017/11/17/gm-thinks-cheaper-batteries-make-electric-cars-more-profitable/869372001/). Accessed on September 29, 2020. 
+5. [Statista](https://www.statista.com/)
 
 **Images** 
 
