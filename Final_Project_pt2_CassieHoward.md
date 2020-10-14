@@ -53,7 +53,7 @@ I am still working out some of the redesignes but I was able to change some of t
 
 Go to [Final Project Part I](/Final_Project_CassieHoward.md)
 
-Go to[Final Project Part III](Final_Project_pt3_CassieHoward.md)
+Go to [Final Project Part III](Final_Project_pt3_CassieHoward.md)
 
 Go to [Main Portfolio Page](/README.md)
 
