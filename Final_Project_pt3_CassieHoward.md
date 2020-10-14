@@ -33,8 +33,35 @@ The audience of my story has changes through the journey.  I started out by thin
 
 I found the journey of going from an idea to final story with a focus on the visuals to be enlightening.  In the past, I have always focused on the data and making sure I get as much data as I could so there could be no questions that couldn't be answered by looking at the visual.  My primary objective was to pass data. I can now see how important the visualization of that data is in getting people to quickly see the objective.  Simplifying what is on the visual and using color, fonts, and titles to highlight the objective seems like an obvious concept and yet it wasn't something I was doing.  I have always said that I am not a "creative" person so I can get the data but someone else can make the data look good.  Now I realize it isn't about making the data "look good".  It is about a focused visual on what you want to say, and I feel I am more comfortable doing that.  
 
-
 **Click  [Why you Should drive Electric](https://carnegiemellon.shorthandstories.com/why-you-should-drive-electric/index.html) to see the final story.**  
+
+## References
+
+1. "The Causes of Climate Change - NASA Climate Change." https://climate.nasa.gov/causes/. Accessed 10 Oct. 2020.
+2. "smog | National Geographic Society." https://www.nationalgeographic.org/encyclopedia/smog/. Accessed 10 Oct. 2020.
+3. "Fast Facts from the Inventory of U.S. Greenhouse Gas ... - EPA." https://www.epa.gov/sites/production/files/2020-04/documents/fastfacts-1990-2018.pdf. Accessed 9 Oct. 2020.
+4. "Carbon Pollution from Transportation | Transportation, Air ...." 25 Jun. 2020, https://www.epa.gov/transportation-air-pollution-and-climate-change/carbon-pollution-transportation. Accessed 13 Oct. 2020.
+5.	"Reducing Pollution with Electric Vehicles | Department of Energy." https://www.energy.gov/eere/electricvehicles/reducing-pollution-electric-vehicles. Accessed 13 Oct. 2020. 
+6.	"NREL Evaluates National Charging Infrastructure Needs for ...." https://www.nrel.gov/news/press/2017/nrel_evaluates_national_charging_infrastructure_needs.html. Accessed 4 Oct. 2020. 
+7.	"Are there enough EV Charging Stations to Power Your Fleet?." 9 May. 2020, https://www.mikealbert.com/blog/are-there-enough-ev-charging-stations-to-power-your-fleet. Accessed 12 Oct. 2020. 
+8.	"The Longest-Range Electric Vehicles For 2019 - MYEV.com." https://www.myev.com/research/comparisons/the-longest-range-electric-vehicles-for-2019. Accessed 12 Oct. 2020.
+9.	"National Plug-In Electric Vehicle Infrastructure Analysis - NREL." 12 Sep. 2017, https://www.nrel.gov/docs/fy17osti/69031.pdf. Accessed 13 Oct. 2020. 
+10.	"Enevate Announces 5-Minute Extreme Fast Charge Battery ...." 2 Nov. 2017, https://www.businesswire.com/news/home/20171102005395/en/Enevate-Announces-5-Minute-Extreme-Fast-Charge-Battery-Technology-for-Electric-Vehicles. Accessed 13 Oct. 2020.
+11.	"Electric-car battery prices dropped 13% in 2019, will reach ...." 6 Dec. 2019, https://www.greencarreports.com/news/1126308_electric-car-battery-prices-dropped-13-in-2019-will-reach-100-kwh-in-2023. Accessed 13 Oct. 2020.
+12.	"How Much Is an Electric Car? - Car and Driver." 13 Apr. 2020, https://www.caranddriver.com/research/a31544842/how-much-is-an-electric-car/. Accessed 13 Oct. 2020.
+13.	"Comparing All Electric Cars Priced Under $40000 - MYEV.com." https://www.myev.com/research/buyers-sellers-advice/comparing-all-electric-cars-priced-under-40-000. Accessed 13 Oct. 2020.
+14.	"amount of carbon dioxide released into the - NASA Climate Kids." https://climatekids.nasa.gov/review/carbon/gasoline.html. Accessed 13 Oct. 2020.
+
+### Images
+
+1. "From The Car The Road Is Wide." by Patrick Gage is licensed under CC BY-NC-SA 2.0
+2. “Photography of Factory” by Chris LeBoutillier is licensed under CC0 
+3. “Gas Can Red” by Pixabay
+4. "Beijing traffic" by Saf' is licensed under CC BY-NC-ND 2.0
+5. “Norway Landscape Blue Sky” by jeremykim1972 is licensed under CC0
+6. “Chevrolet Volt Leads General Motors Into Its Second Century" by GM Europe is licensed under (CC BY-NC-ND 2.0)
+7. “Person in Grey Shirt Handing Key” by Pexels is licensed under CC0 
+
 
 
 Go to [Final Project Part I](/Final_Project_CassieHoward.md)
