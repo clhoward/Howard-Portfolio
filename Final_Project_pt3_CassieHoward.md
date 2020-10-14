@@ -15,7 +15,8 @@ As I continued with my research in Part II, I created a story board that helped 
 
 I drafted the visuals using the actual data and used PowerPoint to create a wireframe that put the visual with some context in the order I wanted to tell the story.  I then had three people review and provide feedback of the story so far.  I received a lot good feedback for everyone.
 
-I thought about the feedback and the story that I wanted to tell, then decided what changes I needed to make.  I realized a few of my visuals were misleading.  For example, I had a map with a radius circle to show range, however, it led the reader to think that the driving range was anywhere within the circle and not the distance the center point of the circle. The feedback indicated I didn't need a chart for this fact and a statement would be sufficient.  I also added a new visualization relating to battery charging time.    
+I thought about the feedback and the story that I wanted to tell, then decided what changes I needed to make.  I realized a few of my visuals were misleading.  For example, I had a map with a radius circle to show range, however, it led the reader to think that the driving range was anywhere within the circle and not the distance the center point of the circle. The feedback indicated I didn't need a chart for this fact and a statement would be sufficient.  I also added a new visualization relating to battery charging time.
+
 **Click [Final Project Part II](/Final_Project_pt2_CassieHoward.md) to see these outputs.**
 
 *Part III*
