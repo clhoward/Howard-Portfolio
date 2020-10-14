@@ -2,7 +2,7 @@
 
 ## Story Arc and Story Board
 
-I created a Story Arc and a Story board for part 1 to help identify the framework and determined what statistic I would need and what section of the presentation it would go in.  This helped me determine the type of data I would need to go find.  
+I created a Story Arc and a Story board as part of Final Project Part I, which can be accessed below, to help identify the framework and determined what statistics I would need and what section of the presentation it would go in.  This helped me determine the type of data I would need to go find.  
 
 [Final Project Part I](/Final_Project_CassieHoward.md)
 
