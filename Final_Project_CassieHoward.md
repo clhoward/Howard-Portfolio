@@ -99,6 +99,8 @@ All images on the mood board came from the public sources below.  If any specifi
 
 Google image search using appropriate reuse flag
 
+Go to [Final Project Part II](/Final_Project_pt2_CassieHoward.md)
 
+Go to [Final Project Part III](Final_Project_pt3_CassieHoward.md)
 
- [Main Portfolio Page](/README.md)
+Go to [Main Portfolio Page](/README.md)
