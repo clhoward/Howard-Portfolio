@@ -97,7 +97,7 @@ All images on the mood board came from the public sources below.  If any specifi
 
 [Creative Commons](https://creativecommons.org/)
 
-[Google image search using appropriate reuse flag](https://goggle.com)
+Google image search using appropriate reuse flag
 
 
 
