@@ -24,9 +24,8 @@ Now it is time to start putting the story with the visuals.  I gathered all the 
 
 
 
+
+
  [Main Portfolio Page](/README.md)
 
 
-[Final Project Part I](/Final_Project_CassieHoward.md)
-
-[Final Project Part II](/Final_Project_pt2_CassieHoward.md)
