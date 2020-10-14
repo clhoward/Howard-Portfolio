@@ -38,7 +38,9 @@ I found the journey of going from an idea to final story with a focus on the vis
 
 
 Go to [Final Project Part I](/Final_Project_CassieHoward.md)
+
 Go to [Final Project Part II](/Final_Project_pt2_CassieHoward.md)
+
 Go to [Main Portfolio Page](/README.md)
 
 
