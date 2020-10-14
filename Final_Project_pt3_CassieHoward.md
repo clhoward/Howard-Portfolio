@@ -21,7 +21,7 @@ I thought about the feedback and the story that I wanted to tell, then decided w
 
 *Part III*
 
-Now it is time to start putting the story with the visuals.  I gathered all the references and research I had done in Part I and started drafting the story without using the visuals.  I decided to use the tool Shorthand to tell the story, so I started matching the visuals to the written story in Shorthand.  As I did this, I found that I had two visuals that were redundant, so I removed one.  I also re-evaluated the visual for battery power range and decided it wasn’t needed.  The order of the story changed a little, but the main sections of problem, solution, and conclusion from the storyboard remained the same.    
+Now it is time to start putting the story with the visuals.  I gathered all the references and research I had done in Part I and started drafting the story without using the visuals.  I decided to use the tool Shorthand to tell the story, so I started matching the visuals to the written story in Shorthand.  As I did this, I found that I had two visuals that were redundant, so I removed one.  I also re-evaluated the visual for battery power range and decided it wasn’t needed.  I finalized the [color pallet](/https://coolors.co/9e0142-d53e4f-f46d43-fdae61-fee08b-e6f598-abdda4-66c2a5-3288bd-5e4fa2) I wanted to use and found the images that helped tell the stroy.  The order of the story changed a little, but the main sections of problem, solution, and conclusion from the storyboard remained the same.    
 
 **Click Why you Should drive Electric to see the final story.**  
 
