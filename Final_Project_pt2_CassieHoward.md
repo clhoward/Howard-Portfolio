@@ -51,5 +51,9 @@ I am still working out some of the redesignes but I was able to change some of t
 
 ![](WireframeSlide2v2.JPG?raw=true)
 
- [Main Portfolio Page](/README.md)
+Go to [Final Project Part I](/Final_Project_CassieHoward.md)
+
+Go to[Final Project Part II](/Final_Project_CassieHoward.md
+
+Go to [Main Portfolio Page](/README.md)
 
