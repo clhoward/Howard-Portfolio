@@ -37,7 +37,8 @@ I found the journey of going from an idea to final story with a focus on the vis
 **Click  [Why you Should drive Electric](https://carnegiemellon.shorthandstories.com/why-you-should-drive-electric/index.html) to see the final story.**  
 
 
-
- [Main Portfolio Page](/README.md)
+Go to [Final Project Part I](/Final_Project_CassieHoward.md)
+Go to [Final Project Part II](/Final_Project_pt2_CassieHoward.md)
+Go to [Main Portfolio Page](/README.md)
 
 
