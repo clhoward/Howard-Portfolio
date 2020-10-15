@@ -54,13 +54,14 @@ I found the journey of going from an idea to final story with a focus on the vis
 
 ### Images
 
-1. "From The Car The Road Is Wide." by Patrick Gage is licensed under CC BY-NC-SA 2.0
-2. “Photography of Factory” by Chris LeBoutillier is licensed under CC0 
-3. “Gas Can Red” by Pixabay
-4. "Beijing traffic" by Saf' is licensed under CC BY-NC-ND 2.0
-5. “Norway Landscape Blue Sky” by jeremykim1972 is licensed under CC0
-6. “Chevrolet Volt Leads General Motors Into Its Second Century" by GM Europe is licensed under (CC BY-NC-ND 2.0)
-7. “Person in Grey Shirt Handing Key” by Pexels is licensed under CC0 
+1. ["From The Car The Road Is Wide."](https://www.flickr.com/photos/26231875@N00/3557846889) by Patrick Gage is licensed under CC BY-NC-SA 2.0
+2. [“Photography of Factory”](https://www.pexels.com/photo/photography-of-factory-929385/) by Chris LeBoutillier is licensed under CC0 
+3. [“Gas Can Red”](https://pixabay.com/vectors/gas-can-red-container-petrol-fuel-30170/) by Pixabay
+4. ["Beijing traffic"](https://www.flickr.com/photos/29725268@N04/8161891893) by Saf' is licensed under CC BY-NC-ND 2.0
+5. [“Norway Landscape Blue Sky”](https://www.needpix.com/photo/download/931788/norway-landscape-blue-sky-clean-air-purity-healing-cloud-solar-free-pictures) by jeremykim1972 is licensed under CC0
+6. [“Chevrolet Volt Leads General Motors Into Its Second Century"](https://www.flickr.com/photos/84139769@N00/2862115897) by GM Europe is licensed under (CC BY-NC-ND 2.0)
+7. [“Person in Grey Shirt Handing Key”](https://www.pexels.com/photo/car-driving-keys-repair-97079/) by Pexels is licensed under CC0
+8. ["200 miles vs 300 miles"](https://www.google.com/maps/@42.5053433,-83.0253951,15z) by google.com/maps
 
 
 
